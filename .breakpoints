@@ -1,0 +1,44 @@
+{
+  "files": {
+    "exe01/inputs/001": [
+      {
+        "id": "07b9f3c0-262e-4fd9-86db-ea8b4462c36f",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "exe01/main.c": [
+      {
+        "id": "c9389328-9bc8-4f2e-9621-c9aeeef4fea8",
+        "line": 8,
+        "version": 1,
+        "index": 123
+      }
+    ],
+    "exe01/outputs/009": [
+      {
+        "id": "6b407db1-da4a-4cc0-8df3-44cb9ede07ad",
+        "line": 1,
+        "version": 2,
+        "index": 0
+      }
+    ],
+    "exe04/outputs/004": [
+      {
+        "id": "4dcce728-07d1-4a5f-b329-30d3ab55cc8c",
+        "line": 1,
+        "version": 5,
+        "index": 0
+      }
+    ],
+    "exe07/outputs/009": [
+      {
+        "id": "74f0acc8-ebe3-4119-ba78-bb55d75d8270",
+        "line": 2,
+        "version": 5,
+        "index": 10
+      }
+    ]
+  }
+}
